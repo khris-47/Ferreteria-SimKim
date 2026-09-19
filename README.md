@@ -9,7 +9,7 @@ Sistema de escritorio para la gestión y evaluación de inventarios de la **Ferr
 
 ## 🧠 ¿De qué trata el proyecto?
 
-El proyecto modela el problema real de una ferretería que necesita decidir **cuánto pedir** y **cuándo pedir** cada producto. Para ello se aplican modelos matemáticos de teoría de inventarios, los cuales se ejecutan con los datos del negocio almacenados en una base de datos:
+El proyecto modela el problema de una ferretería ficticia que necesita decidir **cuánto pedir** y **cuándo pedir** cada producto. Para ello se aplican modelos matemáticos de teoría de inventarios, los cuales se ejecutan con los datos del negocio almacenados en una base de datos:
 
 | Modelo / Técnica | Fórmula utilizada | Propósito |
 |---|---|---|
@@ -98,7 +98,7 @@ Proyecto Inventarios/
 
 ---
 
-## 🗄️ Base de datos
+## 🗄️ Base de datos (local)
 
 Base de datos: `ferreteria_simkin`
 
